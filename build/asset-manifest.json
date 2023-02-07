@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "./static/css/main.64dc6467.css",
+    "main.js": "./static/js/main.365bf8eb.js",
+    "static/media/lbm-coding.png": "./static/media/lbm-coding.b4a0a5957c756408b92a.png",
+    "index.html": "./index.html",
+    "main.64dc6467.css.map": "./static/css/main.64dc6467.css.map",
+    "main.365bf8eb.js.map": "./static/js/main.365bf8eb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64dc6467.css",
+    "static/js/main.365bf8eb.js"
+  ]
+}
